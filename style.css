@@ -1,0 +1,17 @@
+.pai {
+    display: grid;
+    grid-area: auto;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.Parte-1 {
+    background-color: #fcf;
+}
+
+.Parte-2 {
+    background-color: #045;
+}
+
+.Parte-3 {
+    background-color: #ffc00f;
+}
